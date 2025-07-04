@@ -3,9 +3,6 @@
 class SQLHelper {
 
     private $sql;
-//    private $hostname = "server2.mizbaniweb.com";
-//    private $username = "amirbaha_root";
-//    private $password = "Mn9u6~+~t9-&";
 
     private $hostname = "localhost";
     private $username = "root";
